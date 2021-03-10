@@ -1,5 +1,5 @@
 package com.cos.myjpa.handler.ex;
 
-public class MyAuthenticationException {
+public class MyAuthenticationException extends RuntimeException{
 
 }
